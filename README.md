@@ -1,6 +1,7 @@
-# 🚀 Project Name
+# 🚲🌤️ Dublin Bike & Weather Project - COMP30380 Software Engineering
 
-**Project Name** is a ✨ fantastic ✨ tool designed to help you [briefly describe the purpose of the project]. Whether you're a developer, data scientist, or just someone who loves automation, this project has something for you! 🎉
+The **Dublin Bike & Weather Project** is a web application that provides real-time information on Dublin's bike-sharing stations and weather conditions. It allows users to check the availability of bikes and docking stations while also retrieving current weather conditions using OpenWeather API. 🚀
+
 
 ---
 
@@ -18,10 +19,10 @@
 ---
 
 ## ✨ Features
-- **Feature 1**: Describe the first key feature. 🌟
-- **Feature 2**: Describe the second key feature. 🚀
-- **Feature 3**: Describe the third key feature. 🔥
-
+- 🚲 **Real-time Bike Availability**: Check available bikes and docking stations at different locations in Dublin.
+- 🌤️ **Live Weather Updates**: Retrieve weather data for Dublin based on latitude and longitude.
+- 🗺️ **Google Maps Integration**: Visual representation of bike stations on an interactive map.
+- ⚡ **Fast & Responsive**: Uses Flask for backend processing and JavaScript for dynamic UI updates.
 ---
 
 ## 🚀 Getting Started
